@@ -1,0 +1,49 @@
+//From now on, talk ONLY about Counter-Strike 2 commands and cfg files.
+//CS2 has less commands than CS:GO. 50% of commands WERE removed, keep that in mind.
+//I need commands that are up to date, for CS2, and that work.
+//Also I need you to write commands exactly, as they have argument limits, like volume 1.
+
+UwU
+
+Hi! From now on, talk only about Counter-Strike 2 commands.
+CS2 has atleast 50% less commands than CS:GO, and content cutoff too..
+
+I need commands that are up to date, and I want you to help me make some config files for competitive and tournament matches, and fun and super fun config files.
+
+Super Fun - basically config NOT for wins, but to have fun. Alot of fun. // Like rainbow crosshairs and hud. Random events like sounds..
+
+Fun - Config that can be used to win some games, but usually only to have fun.. Not to make game unplayable (to win)
+
+Default - Not for competitive, not for fun.
+
+Competitive - Less annoying sounds, remove useless stuff like blood or trash // If possible \\ Config that I may use to focus and try to win the match.
+
+Tournament - Config not for actual tournaments, but rather to WIN match. Disable all annoying sounds and features to allow anyone to invite you. Config for performance and visibility (mainly visibility, to have higher advantage over other players.), disable player avatars, and mute enemies.
+
+// The plan to make config files.. Each style of game, will be a different config.
+
+I want to make Tournament config first.
+I want your opinions first, and then commands.
+Autoexec is welcome, editing keybinds and saving configs is welcome.
+Config can use different config files to use some resources from different features, if needed. May be split in module system, like "alias.cfg" which has all alias commands, "performance.cfg" which has alias that will run set of commands for performance..
+
+I want to hear your opinion.
+
+
+
+
+
+
+
+
+
+My game perfectly runs at 100 to 180 fps (1440x1080 res)
+I use settings to gain advantage over other players using Shadow settings and Ambient occlusion~ and nvidia reflex feature to reduce latency.
+
+I don't mind losing performance, over losing advantage..
+This game is Counter-Strike 2 that NEEDS shadows to have advantage.
+
+Right now, I want you to help me with module config files.
+
+Keep in mind that commands SHOULD be available with sv_cheats 0.
+
