@@ -1,2 +1,2 @@
-# cs2-config
-repo for cs2 configs
+# Repo for cs2 cfg files.
+For fun and competitive
